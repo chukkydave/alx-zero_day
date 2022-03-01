@@ -1,5 +1,5 @@
 # Project Name
-> alx-zero_day
+> alx-zero_day update
 
 ## Table of Contents
 * [General Info](#general-information)
